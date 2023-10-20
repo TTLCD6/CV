@@ -4,4 +4,5 @@
 body{background-color: blue;}
 header {background-color: red;text-align: center;}
 
-aside{background-color: yellow;width: 33.33%;}
+aside{background-color: yellow;width: 33.33%;float: left;}
+main{background-color: aquamarine;width: 66.66%;}
