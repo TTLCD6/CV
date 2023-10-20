@@ -1,3 +1,7 @@
 .cercle{
     border-radius: 550px;
 }
+body{background-color: blue;}
+header {background-color: red;text-align: center;}
+
+aside{background-color: yellow;width: 33.33%;}
