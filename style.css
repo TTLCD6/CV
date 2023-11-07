@@ -1,8 +1,25 @@
-.cercle{
-    border-radius: 550px;
+body{
+   background-color: blue;
 }
-body{background-color: blue;}
-header {background-color: red;text-align: center;}
 
-aside{background-color: yellow;width: 33.33%;float: left;}
-main{background-color: aquamarine;width: 66.66%;}
+header{
+     background-color: red;text-align: center;
+}
+
+
+aside{
+    background-color: yellow; float:
+}  
+
+figure{
+    text-align: left;
+}
+
+main{
+    background-color: aquamarine;text-align: center;
+}
+
+img{
+    border-radius: 50%;display: flex;flex-direction: column;
+}
+
