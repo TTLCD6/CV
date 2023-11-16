@@ -1,26 +1,28 @@
 body{
-   background-color: blue;
+    background-color: black;
+    padding: 15%;
 }
+
+
 
 header{
-     background-color: red;text-align: center;
+
+     background-color: rgb(228, 173, 173);text-align: center;
+     width: 100%;
+     border: 6px solid white;
 }
 
 
-aside{
-
-    padding-left: 0px;
-    position: absolute;
-    
-}  
-
-figure{
-    text-align: left;
-}
 
 main{
-    background-color: aquamarine;text-align: center;
+
+    background-color: rgb(255, 127, 225);text-align: center;
+    width: 75%;
+    overflow: hidden;
+    border: 6px solid white;
 }
+
+
 
 img{
 
@@ -28,20 +30,32 @@ img{
     display: flex;
     flex-direction: column;
     border: 3px solid black;
-    width: 90%;
+    width: 20%;
+    
 }
 
-
-
-i{
-    background-color: aliceblue;
-}
 
 span{
+
     text-decoration: underline;
 }
+
+
 
 h3{
     color: blue;
 }
 
+
+
+aside{
+
+    width: 22.8%;
+    background-color: rgba(137, 43, 226, 0.975);
+    float: left;
+    border: 6px solid white;
+}
+
+h2{
+    color: red;
+}
